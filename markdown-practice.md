@@ -18,6 +18,7 @@ https://github.com/ladyrancia
 - Stage your changes *(tell Git which files to include)*
 - Create a commit with a message *(save a snapshot of your work)*
 - Push the commit to GitHub *(upload it online)*
+
 |   Tool             |                   Purpose             |           Link                  |
 |--------------------|---------------------------------------|---------------------------------|
 | Git                |  Version control for tracing changes  |  https://git-scm.com/           |
