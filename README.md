@@ -88,4 +88,3 @@ Small projects focused on improving UI/UX design and JavaScript functionality.
 # 🌸 Fun Fact
 
 I believe every expert developer was once a beginner — so I'm enjoying the journey, learning step by step, and building something amazing along the way ✨
-dyrancia/ladyrancia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
